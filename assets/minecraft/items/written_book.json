@@ -4,15 +4,15 @@
     "property": "custom_model_data",
     "fallback": {
       "type": "model",
-      "model": "item/golden_carrot"
+      "model": "item/written_book"
     },
     "entries": [
       {
         "model": {
           "type": "model",
-          "model": "custom:item/sho/popcorn_box"
+          "model": "custom:item/sho/fantasy_scroll_1"
         },
-        "threshold": 101
+        "threshold": 102
       }
     ]
   }

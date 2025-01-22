@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/lantern"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/sho/mystic_energy_source_yellow"
+        },
+        "threshold": 103
+      },
+	  {
+        "model": {
+          "type": "model",
+          "model": "custom:item/sho/mystic_energy_source_yellow_animated"
+        },
+        "threshold": 104
+      }
+    ]
+  }
+}

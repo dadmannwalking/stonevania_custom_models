@@ -43,7 +43,10 @@ If your name isn’t listed, add it here with the next available 100-number rang
 - **Sho:** 100–199
 ## Contained Models
 
-The following models are currently included in the resource pack:  
+The following models are currently included in the resource pack:
+
+> [!IMPORTANT]  
+> Only use those models that have been approved for use by the creators and for which you have obtained permission.
 
 - **Izilac (1–99):**  
   - 1: Fancy Hat  
@@ -52,6 +55,9 @@ The following models are currently included in the resource pack:
   - 4: Glasses Down  
   - 5: Moustache  
 
-  - **Sho (100–199):**  
+- **Sho (100–199):**  
   - 100: Casino Chip Gold 
   - 101: Popcorn Box
+  - 102: Fantasy Scroll
+  - 103: Mystic Energy Source
+  - 104: Mystic Energy Source Animated
