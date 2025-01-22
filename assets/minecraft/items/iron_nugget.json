@@ -10,7 +10,7 @@
       {
         "model": {
           "type": "model",
-          "model": "custom:item/casino_chip_gold"
+          "model": "custom:item/sho/casino_chip_gold"
         },
         "threshold": 100
       }

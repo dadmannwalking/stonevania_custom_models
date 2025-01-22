@@ -2,9 +2,9 @@
 	"credit": "Made by SHO310",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "custom:item/popcorn_box/popcorn",
-		"1": "custom:item/popcorn_box/box",
-		"particle": "custom:item/popcorn_box/popcorn"
+		"0": "custom:item/sho/popcorn_box/popcorn",
+		"1": "custom:item/sho/popcorn_box/box",
+		"particle": "custom:item/sho/popcorn_box/popcorn"
 	},
 	"elements": [
 		{

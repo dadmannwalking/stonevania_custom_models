@@ -1,9 +1,9 @@
 {
 	"credit": "Made by SHO310",
 	"textures": {
-		"0": "custom:item/casino_chip_gold/casino_chip",
-		"1": "custom:item/casino_chip_gold/v",
-		"particle": "custom:item/casino_chip_gold/casino_chip"
+		"0": "custom:item/sho/casino_chip_gold/casino_chip",
+		"1": "custom:item/sho/casino_chip_gold/v",
+		"particle": "custom:item/sho/casino_chip_gold/casino_chip"
 	},
 	"elements": [
 		{
