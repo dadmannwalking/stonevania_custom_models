@@ -41,6 +41,9 @@ If your name isn’t listed, add it here with the next available 100-number rang
 
 - **Izilac:** 1–99
 - **Sho:** 100–199
+- **Lynnt:** 200-299
+
+
 ## Contained Models
 
 The following models are currently included in the resource pack:
@@ -61,3 +64,6 @@ The following models are currently included in the resource pack:
   - 102: Fantasy Scroll
   - 103: Mystic Energy Source
   - 104: Mystic Energy Source Animated
+
+- **Lynnt (100–199):**  
+  - 200: Wizard Hat Purple

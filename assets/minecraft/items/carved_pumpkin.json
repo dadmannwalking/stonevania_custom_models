@@ -41,6 +41,13 @@
           "model": "custom:item/moustache"
         },
         "threshold": 5
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/wizbiz"
+        },
+        "threshold": 200
       }
     ]
   }
