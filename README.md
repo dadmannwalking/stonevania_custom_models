@@ -52,18 +52,18 @@ The following models are currently included in the resource pack:
 > Only use those models that have been approved for use by the creators and for which you have obtained permission.
 
 - **Izilac (1–99):**  
-  - 1: Fancy Hat  
-  - 2: Sword Head  
-  - 3: Glasses  
-  - 4: Glasses Down  
-  - 5: Moustache  
+  - 1: Fancy Hat (Carved Pumpkin)
+  - 2: Sword Head (Carved Pumpkin)
+  - 3: Glasses (Carved Pumpkin)
+  - 4: Glasses Down (Carved Pumpkin)
+  - 5: Moustache (Carved Pumpkin)
 
 - **Sho (100–199):**  
-  - 100: Casino Chip Gold 
-  - 101: Popcorn Box
-  - 102: Fantasy Scroll
-  - 103: Mystic Energy Source
-  - 104: Mystic Energy Source Animated
+  - 100: Casino Chip Gold (Iron Nugget)
+  - 101: Popcorn Box (Golden Carrots)
+  - 102: Fantasy Scroll (Written Book)
+  - 103: Mystic Energy Source (Lantern)
+  - 104: Mystic Energy Source Animated (Lantern)
 
 - **Lynnt (100–199):**  
-  - 200: Wizard Hat Purple
+  - 200: Wizard Hat Purple (Carved Pumpkin)
