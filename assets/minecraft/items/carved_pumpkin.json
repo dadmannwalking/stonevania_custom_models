@@ -45,6 +45,13 @@
       {
         "model": {
           "type": "model",
+          "model": "custom:item/sho/bloody_crown"
+        },
+        "threshold": 105
+      },
+      {
+        "model": {
+          "type": "model",
           "model": "custom:item/lynnt/wizbiz"
         },
         "threshold": 200

@@ -96,6 +96,7 @@ The following models are currently included in the resource pack:
   - 102: Fantasy Scroll (Written Book)
   - 103: Mystic Energy Source (Lantern)
   - 104: Mystic Energy Source Animated (Lantern)
+  - 105: Bloody Crown (Carved Pumpkin)
 
 - **Lynnt (100–199):**  
   - 200: Wizard Hat Purple (Carved Pumpkin)
