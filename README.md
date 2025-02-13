@@ -97,6 +97,8 @@ The following models are currently included in the resource pack:
   - 103: Mystic Energy Source (Lantern)
   - 104: Mystic Energy Source Animated (Lantern)
   - 105: Bloody Crown (Carved Pumpkin)
+  - 106: Bottle of Wisdom (Iron Nugget)
+  - 107: Mounted Telescope (Carved Pumpkin)
 
 - **Lynnt (100–199):**  
   - 200: Wizard Hat Purple (Carved Pumpkin)

@@ -52,6 +52,13 @@
       {
         "model": {
           "type": "model",
+          "model": "custom:item/sho/mounted_telescope"
+        },
+        "threshold": 107
+      },
+      {
+        "model": {
+          "type": "model",
           "model": "custom:item/lynnt/wizbiz"
         },
         "threshold": 200
