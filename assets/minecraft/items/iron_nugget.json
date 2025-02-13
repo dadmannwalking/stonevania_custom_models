@@ -13,6 +13,13 @@
           "model": "custom:item/sho/casino_chip_gold"
         },
         "threshold": 100
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/sho/bottle_of_wisdom"
+        },
+        "threshold": 106
       }
     ]
   }
