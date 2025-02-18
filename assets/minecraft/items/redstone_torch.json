@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "item/redstone_torch"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/sho/mic_handheld_reporter"
+        },
+        "threshold": 108
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/sho/mic_standing_office"
+        },
+        "threshold": 109
+      }
+    ]
+  }
+}

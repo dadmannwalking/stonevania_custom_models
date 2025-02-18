@@ -2,8 +2,8 @@
 	"credit": "Made by Izilac",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom:item/fancyhat",
-		"particle": "custom:item/fancyhat"
+		"0": "custom:item/izilac/fancyhat",
+		"particle": "custom:item/izilac/fancyhat"
 	},
 	"elements": [
 		{

@@ -42,6 +42,7 @@ If your name isn’t listed, add it here with the next available 100-number rang
 - **Izilac:** 1–99
 - **Sho:** 100–199
 - **Lynnt:** 200-299
+- **Default:** 950-999 (Used for already declared items with high nbt numbers)
 
 
 ## Creating a Release
@@ -99,6 +100,13 @@ The following models are currently included in the resource pack:
   - 105: Bloody Crown (Carved Pumpkin)
   - 106: Bottle of Wisdom (Iron Nugget)
   - 107: Mounted Telescope (Carved Pumpkin)
+  - 108: Microphone Handheld Reporter (Redstone Torch)
+  - 109: Microphone Standing Office (Redstone Torch)
 
-- **Lynnt (100–199):**  
+- **Lynnt (200–299):**  
   - 200: Wizard Hat Purple (Carved Pumpkin)
+  - 201: Wizard Apprentice (Carved Pumpkin)
+  - 202: Double Apprentice (Carved Pumpkin)
+
+- **Default Items (950–999):**  
+  - 950: Party Hat (Carved Pumpkin)

@@ -2,9 +2,9 @@
 	"credit": "Made by Izilac",
 	"texture_size": [4, 4],
 	"textures": {
-		"0": "custom:item/frame",
-		"1": "custom:item/lentille",
-		"particle": "custom:item/frame"
+		"0": "custom:item/izilac/frame",
+		"1": "custom:item/izilac/lentille",
+		"particle": "custom:item/izilac/frame"
 	},
 	"elements": [
 		{
@@ -249,7 +249,7 @@
 			"scale": [4, 4, 4]
 		},
 		"head": {
-			"translation": [3.5, 26, -6.75],
+			"translation": [3.5, 28, -6.75],
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
