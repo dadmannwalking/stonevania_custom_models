@@ -2,10 +2,10 @@
 	"credit": "Made by Izilac",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom:item/texture",
-		"1": "custom:item/hands",
-		"2": "custom:item/blade",
-		"particle": "block/texture"
+		"0": "custom:item/izilac/texture",
+		"1": "custom:item/izilac/hands",
+		"2": "custom:item/izilac/blade",
+		"particle": "block/izilac/texture"
 	},
 	"elements": [
 		{

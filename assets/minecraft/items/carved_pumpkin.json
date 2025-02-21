@@ -10,35 +10,35 @@
       {
         "model": {
           "type": "model",
-          "model": "custom:item/fancyhat"
+          "model": "custom:item/izilac/fancyhat"
         },
         "threshold": 1
       },
       {
         "model": {
           "type": "model",
-          "model": "custom:item/swordhead"
+          "model": "custom:item/izilac/swordhead"
         },
         "threshold": 2
       },
       {
         "model": {
           "type": "model",
-          "model": "custom:item/glasses"
+          "model": "custom:item/izilac/glasses"
         },
         "threshold": 3
       },
       {
         "model": {
           "type": "model",
-          "model": "custom:item/glasses_down"
+          "model": "custom:item/izilac/glasses_down"
         },
         "threshold": 4
       },
       {
         "model": {
           "type": "model",
-          "model": "custom:item/moustache"
+          "model": "custom:item/izilac/moustache"
         },
         "threshold": 5
       },
@@ -62,6 +62,27 @@
           "model": "custom:item/lynnt/wizbiz"
         },
         "threshold": 200
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/wizard_apprentice"
+        },
+        "threshold": 201
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/double_apprentice"
+        },
+        "threshold": 202
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/default/party_hat"
+        },
+        "threshold": 950
       }
     ]
   }
