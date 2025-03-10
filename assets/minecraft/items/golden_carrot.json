@@ -13,6 +13,20 @@
           "model": "custom:item/sho/popcorn_box"
         },
         "threshold": 101
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/james/choco_mooshake"
+        },
+        "threshold": 300
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/james/red_velvet_cookie"
+        },
+        "threshold": 301
       }
     ]
   }
