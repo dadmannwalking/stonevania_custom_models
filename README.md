@@ -42,6 +42,7 @@ If your name isn’t listed, add it here with the next available 100-number rang
 - **Izilac:** 1–99
 - **Sho:** 100–199
 - **Lynnt:** 200-299
+- **James:** 300-399
 - **Default:** 950-999 (Used for already declared items with high nbt numbers)
 
 
@@ -107,6 +108,10 @@ The following models are currently included in the resource pack:
   - 200: Wizard Hat Purple (Carved Pumpkin)
   - 201: Wizard Apprentice (Carved Pumpkin)
   - 202: Double Apprentice (Carved Pumpkin)
+
+- **James (200–299):**  
+  - 300: Choco Mooshake (Golden Carrot)
+  - 301: Red Velvet Cookie (Golden Carrot)
 
 - **Default Items (950–999):**  
   - 950: Party Hat (Carved Pumpkin)
