@@ -80,6 +80,174 @@
       {
         "model": {
           "type": "model",
+          "model": "custom:item/lynnt/egg_bubilas"
+        },
+        "threshold": 203
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_coco"
+        },
+        "threshold": 204
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_dadmann"
+        },
+        "threshold": 205
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_grim"
+        },
+        "threshold": 206
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_haunted"
+        },
+        "threshold": 207
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_izilac"
+        },
+        "threshold": 208
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_james"
+        },
+        "threshold": 209
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_kiki"
+        },
+        "threshold": 210
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_locky"
+        },
+        "threshold": 211
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_lofi"
+        },
+        "threshold": 212
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_lynnt"
+        },
+        "threshold": 213
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_rem"
+        },
+        "threshold": 214
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_roboss"
+        },
+        "threshold": 215
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_sabre"
+        },
+        "threshold": 216
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_sevel"
+        },
+        "threshold": 217
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_sho"
+        },
+        "threshold": 218
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_warden"
+        },
+        "threshold": 219
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_bunny"
+        },
+        "threshold": 220
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_frog"
+        },
+        "threshold": 221
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_blue"
+        },
+        "threshold": 222
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_gold"
+        },
+        "threshold": 223
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_green"
+        },
+        "threshold": 224
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_pink"
+        },
+        "threshold": 225
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/egg_yellow"
+        },
+        "threshold": 226
+      },
+      {
+        "model": {
+          "type": "model",
           "model": "custom:item/default/party_hat"
         },
         "threshold": 950
