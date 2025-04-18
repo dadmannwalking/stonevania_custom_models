@@ -20,6 +20,48 @@
           "model": "custom:item/sho/bottle_of_wisdom"
         },
         "threshold": 106
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/dragon_tooth"
+        },
+        "threshold": 227
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/magic_hourglass"
+        },
+        "threshold": 228
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/magic_cup"
+        },
+        "threshold": 229
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/magic_eye"
+        },
+        "threshold": 230
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/magic_feather"
+        },
+        "threshold": 231
+      },
+      {
+        "model": {
+          "type": "model",
+          "model": "custom:item/lynnt/magic_potion"
+        },
+        "threshold": 232
       }
     ]
   }

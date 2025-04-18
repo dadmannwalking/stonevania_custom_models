@@ -132,6 +132,12 @@ The following models are currently included in the resource pack:
   - 224: Green Easter Egg (Carved Pumpkin)
   - 225: Pink Easter Egg (Carved Pumpkin)
   - 226: Yellow Easter Egg (Carved Pumpkin)
+  - 227: Dragon Tooth (Iron Nugget)
+  - 228: Magic Hourglass (Iron Nugget)
+  - 229: Magic Cup (Iron Nugget)
+  - 230: Magic Eye (Iron Nugget)
+  - 231: Magic Feather (Iron Nugget)
+  - 232: Magic Potion (Iron Nugget)
 
 - **James (200–299):**  
   - 300: Choco Mooshake (Golden Carrot)
